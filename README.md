@@ -4,10 +4,12 @@ Colección de challenges de [roadmap.sh](https://roadmap.sh/) resueltos con Linu
 Cada proyecto incluye un README con objetivos, uso y notas técnicas.
 
 ## 📚 Índice rápido
-| #  | Challenge | Qué cubre | Comandos/tecnologías |
+
+| #  | Challenge | Enunciado | Comandos/Tecnologías |
 |----|-----------|-----------|----------------------|
-| 01 | [Server Performance Stats](server-performance-stats) | Top 5 procesos por CPU/RAM y uso de disco | `top`, `head`, `awk`, `df`, pipes |
-| 02 | [Log Archive Tool](log-archive-tool)  | Backup de logs con timestamp + registro en texto | `tar`, `date`, `sed`, redirecciones |
+| 01 | [Server Performance Stats](server-performance-stats) | [📄 Ver enunciado](https://roadmap.sh/projects/server-stats) | `top`, `head`, `awk`, `df`, pipes |
+| 02 | [Log Archive Tool](log-archive-tool) | [📄 Ver enunciado](https://roadmap.sh/projects/log-archive-tool) | `tar`, `date`, `sed`, `mkdir`, redirecciones |
+
 
 ## 🧭 Próximos (roadmap)
 [GitHub Pages Deployment](https://roadmap.sh/projects/github-actions-deployment) ·  
