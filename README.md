@@ -1,4 +1,4 @@
-# 🧪 DevOps Roadmap Lab (Linux & Bash)
+# 🧪 DevOps Roadmap Lab
 
 Colección de challenges de [roadmap.sh](https://roadmap.sh/) resueltos con Linux/Bash.  
 Cada proyecto incluye un README con objetivos, uso y notas técnicas.
