@@ -2,7 +2,6 @@
 
 **Enunciado**: Construir una herramienta CLI que archive (comprimir) logs con fecha y hora y los guarde en un nuevo directorio.
  **Referencia**: https://roadmap.sh/projects/log-archive-tool
-
 ## ✅ Requisitos del challenge (cumplidos)
 
 1. Aceptar el **directorio de logs** como argumento (`./log-archive-tool.sh <dir>`).
