@@ -6,7 +6,7 @@ Cada proyecto incluye un README con objetivos, uso y notas técnicas.
 ## 📚 Índice rápido
 | #  | Challenge | Qué cubre | Comandos/tecnologías |
 |----|-----------|-----------|----------------------|
-| 01 | [Server Performance Stats](challenges/01-server-stats/) <br> [📄 Enunciado](https://roadmap.sh/projects/server-stats) | Top 5 procesos por CPU/RAM y uso de disco | `top`, `head`, `awk`, `df`, pipes |
+| 01 | [Server Performance Stats](server-performance-stats) <br> [📄 Enunciado](https://roadmap.sh/projects/server-stats) | Top 5 procesos por CPU/RAM y uso de disco | `top`, `head`, `awk`, `df`, pipes |
 | 02 | [Log Archive Tool](challenges/02-log-archive-tool/) <br> [📄 Enunciado](https://roadmap.sh/projects/log-archive-tool) | Backup de logs con timestamp + registro en texto | `tar`, `date`, `sed`, redirecciones |
 
 ## 🧭 Próximos (roadmap)
