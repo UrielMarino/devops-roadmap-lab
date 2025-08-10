@@ -15,8 +15,8 @@
 
 ## ▶️ Uso
 
-```
-bashCopiarEditarchmod +x ./log-archive-tool.sh
+```bash
+chmod +x ./log-archive-tool.sh
 ./log-archive-tool.sh /ruta/al/directorio/de/logs
 ```
 
@@ -26,31 +26,31 @@ Si el argumento está vacío o la ruta no existe, el script pedirá un directori
 
 - Archivo `.tar.gz` en:
 
-  ```
+  ```bash
   /home/<usuario>/Documentos/backups/
   ```
 
 - Nombre del archivo:
 
-  ```
+  ```bash
   logs_<ruta_sanitizada>_<YYYYMMDD_HHMMSS>.tar.gz
   ```
 
   Ejemplo:
 
-  ```
+  ```bash
   logs__var_log_apache2_20250809_183000.tar.gz
   ```
 
 - Registro en:
 
-  ```
+  ```bash
   /home/<usuario>/Documentos/backups/logs/stdout.txt
   ```
 
   Línea ejemplo:
 
-  ```
+  ```bash
   Se realizó un backup de /var/log/apache2 el: 2025-08-09 18:30:00
   ```
 
