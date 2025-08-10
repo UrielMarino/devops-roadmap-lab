@@ -21,31 +21,9 @@ chmod +x ./server-stats.sh
 ./server-stats.sh
 ```
 
-
-
 ## 📌 Ejemplo de salida
 
-=========================== CPU TOTAL ============================
-Uso total de CPU: 8.0%
+<img width="812" height="641" alt="image" src="https://github.com/user-attachments/assets/055baa19-c85a-4e8a-aa2d-27eb70e98d00" />
 
-========================== MEMORIA TOTAL =========================
-Total: 31836 MB | Usada: 7480 MB (23.5%) | Libre: 19849 MB
 
-============================== DISCO =============================
-Total: 480G | Usado: 43G (10%) | Libre: 414G
 
-======================== TOP 5 POR CPU ===========================
-  PID USER     %CPU %MEM COMMAND
- 4307 umarino  42.2  1.6 Discord
- 2944 umarino  28.6  0.4 Xorg
- 6454 umarino  13.0  1.4 chrome
- 6114 umarino   5.8  1.1 chrome
-17312 umarino   4.7  1.3 chrome
-
-======================== TOP 5 POR MEM ===========================
-  PID USER     %CPU %MEM COMMAND
- 3495 umarino   0.5  1.7 gnome-software
- 4307 umarino  42.2  1.6 Discord
- 6454 umarino  13.0  1.4 chrome
- 3269 umarino   4.3  1.4 gnome-shell
- 2473 dnsmasq   0.4  1.4 mysqld
